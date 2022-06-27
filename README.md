@@ -5,4 +5,4 @@
 * E-mail: <guilherme.felipe149@gmail.com>
 
 <h2> Link para o arquivo tarefa03.md: </h2>
-<a href=“https://github.com/GuilhermeMdrs/bd2/blob/main/tarefas/t03/tarefa03.md“>tarefa03.md</a>
+<a href="https://github.com/GuilhermeMdrs/bd2/blob/main/tarefas/t03/tarefa03.md">tarefa03.md</a>
